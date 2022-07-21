@@ -28,7 +28,7 @@ Make from video + ffmpeg
 ![demo text](_bg9.gif)
 
 # 10 
-![demo text](_bg10.gif)
+![demo text](_bg10_short.gif)
 
 # 11 
 ![demo text](_bg11.gif)
